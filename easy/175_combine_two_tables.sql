@@ -1,6 +1,7 @@
--- 175.combine-two-tables
 -- https://leetcode.com/problems/combine-two-tables/description/
--- # Write your MySQL query statement below
+-- Problem: 175.combine-two-tables
+-- Difficulty: Easy
+-- Concepts: LEFT Join
 select
 a.firstName,
 a.lastName ,
