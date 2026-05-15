@@ -29,8 +29,8 @@ A collection of my SQL solutions from LeetCode focused on:
 
 | Problem | Difficulty | Solution |Question|
 |---------|------------|----------|--------|
-| Combine Two Tables | Easy | [View](easy/175_combine_two_tables.sql) |[LINK](https://leetcode.com/problems/combine-two-tables/description/)|
-| Consecutive Numbers | Medium | [View](medium/180_consecutive_numbers.sql) ||
+| 175. Combine Two Tables | Easy | [View](easy/175_combine_two_tables.sql) |[LINK](https://leetcode.com/problems/combine-two-tables/description/)|
+| 181. Employees Earning More Than Their Managers.sql | Medium | [View](181_employees_earning_more_than_managers.sql) |[LINK](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)|
 
 ## Why This Repository?
 I use this repository to improve practical SQL problem-solving skills and strengthen my understanding of analytical querying and database concepts used in real-world data roles.
