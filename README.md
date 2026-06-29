@@ -18,10 +18,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 34 | 34 |
-| 🟡 Medium | 24 | 24 |
-| 🔴 Hard | 5 | 5 |
-| **Total** | **63** | **63** |
+| 🟢 Easy | 0 | 34 |
+| 🟡 Medium |  | 24 |
+| 🔴 Hard | 0 | 5 |
+| **Total** | **0** | **63** |
 
 
 
