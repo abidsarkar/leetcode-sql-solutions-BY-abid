@@ -1,10 +1,8 @@
 # LeetCode SQL Solutions
+
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-
 ![Progress](https://img.shields.io/badge/Solved-17-success)
-
 ![License](https://img.shields.io/badge/License-MIT-blue)
-
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
 This repository contains my SQL solutions for LeetCode Database problems. Each solution includes:
@@ -18,10 +16,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 0 | 34 |
-| 🟡 Medium |  | 24 |
-| 🔴 Hard | 0 | 5 |
-| **Total** | **0** | **63** |
+| 🟢 Easy | 8 | 34 |
+| 🟡 Medium | 7 | 24 |
+| 🔴 Hard | 2 | 5 |
+| **Total** | **17** | **63** |
 
 
 
@@ -38,7 +36,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 196 | Delete Duplicate Emails | Easy | [View](Easy/196-Delete-Duplicate-Emails/solution.sql) | [Link](https://leetcode.com/problems/delete-duplicate-emails/) |
 | 197 | Rising Temperature | Easy | [View](Easy/197-Rising-Temperature/solution.sql) | [Link](https://leetcode.com/problems/rising-temperature/) |
 | 511 | Game Play Analysis I | Easy | [View](Easy/511-Game-Play-Analysis-I/solution.sql) | [Link](https://leetcode.com/problems/game-play-analysis-i/) |
-| 577 | Employee Bonus | Easy | [View](Easy/577-Employee-Bonus/solution.sql) | [Link](https://leetcode.com/problems/employee-bonus/) |
+<!-- | 577 | Employee Bonus | Easy | [View](Easy/577-Employee-Bonus/solution.sql) | [Link](https://leetcode.com/problems/employee-bonus/) |
 | 584 | Find Customer Referee | Easy | [View](Easy/584-Find-Customer-Referee/solution.sql) | [Link](https://leetcode.com/problems/find-customer-referee/) |
 | 586 | Customer Placing the Largest Number of Orders | Easy | [View](Easy/586-Customer-Placing-the-Largest-Number-of-Orders/solution.sql) | [Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |
 | 595 | Big Countries | Easy | [View](Easy/595-Big-Countries/solution.sql) | [Link](https://leetcode.com/problems/big-countries/) |
@@ -63,7 +61,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1527 | Patients With a Condition | Easy | [View](Easy/1527-Patients-With-a-Condition/solution.sql) | [Link](https://leetcode.com/problems/patients-with-a-condition/) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | [View](Easy/1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/solution.sql) | [Link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) |
 | 1661 | Average Time of Process per Machine | Easy | [View](Easy/1661-Average-Time-of-Process-per-Machine/solution.sql) | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) |
-| 1683 | Invalid Tweets | Easy | [View](Easy/1683-Invalid-Tweets/solution.sql) | [Link](https://leetcode.com/problems/invalid-tweets/) |
+| 1683 | Invalid Tweets | Easy | [View](Easy/1683-Invalid-Tweets/solution.sql) | [Link](https://leetcode.com/problems/invalid-tweets/) | -->
 
 ---
 # 🟡 Medium Problems
@@ -75,7 +73,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 180 | Consecutive Numbers | [View](Medium/180-Consecutive-Numbers/solution.sql) | [Link](https://leetcode.com/problems/consecutive-numbers/) |
 | 184 | Department Highest Salary | [View](Medium/184-Department-Highest-Salary/solution.sql) | [Link](https://leetcode.com/problems/department-highest-salary/) |
 | 570 | Managers with at Least 5 Direct Reports | [View](Medium/570-Managers-with-at-Least-5-Direct-Reports/solution.sql) | [Link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) |
-| 585 | Investments in 2016 | [View](Medium/585-Investments-in-2016/solution.sql) | [Link](https://leetcode.com/problems/investments-in-2016/) |
+<!-- | 585 | Investments in 2016 | [View](Medium/585-Investments-in-2016/solution.sql) | [Link](https://leetcode.com/problems/investments-in-2016/) |
 | 602 | Friend Requests II: Who Has the Most Friends | [View](Medium/602-Friend-Requests-II-Who-Has-the-Most-Friends/solution.sql) | [Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) |
 | 608 | Tree Node | [View](Medium/608-Tree-Node/solution.sql) | [Link](https://leetcode.com/problems/tree-node/) |
 | 626 | Exchange Seats | [View](Medium/626-Exchange-Seats/solution.sql) | [Link](https://leetcode.com/problems/exchange-seats/) |
@@ -93,7 +91,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1731 | The Number of Employees Which Report to Each Employee | [View](Medium/1731-The-Number-of-Employees-Which-Report-to-Each-Employee/solution.sql) | [Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) |
 | 1789 | Primary Department for Each Employee | [View](Medium/1789-Primary-Department-for-Each-Employee/solution.sql) | [Link](https://leetcode.com/problems/primary-department-for-each-employee/) |
 | 1907 | Count Salary Categories | [View](Medium/1907-Count-Salary-Categories/solution.sql) | [Link](https://leetcode.com/problems/count-salary-categories/) |
-| 1934 | Confirmation Rate | [View](Medium/1934-Confirmation-Rate/solution.sql) | [Link](https://leetcode.com/problems/confirmation-rate/) |
+| 1934 | Confirmation Rate | [View](Medium/1934-Confirmation-Rate/solution.sql) | [Link](https://leetcode.com/problems/confirmation-rate/) | -->
 
 ---
 
@@ -103,9 +101,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 |---|---------|----------|----------|
 | 185 | Department Top Three Salaries | [View](Hard/185-Department-Top-Three-Salaries/solution.sql) | [Link](https://leetcode.com/problems/department-top-three-salaries/) |
 | 262 | Trips and Users | [View](Hard/262-Trips-and-Users/solution.sql) | [Link](https://leetcode.com/problems/trips-and-users/) |
-| 569 | Median Employee Salary | [View](Hard/569-Median-Employee-Salary/solution.sql) | [Link](https://leetcode.com/problems/median-employee-salary/) |
-| 571 | Find Median Given Frequency of Numbers | [View](Hard/571-Find-Median-Given-Frequency-of-Numbers/solution.sql) | [Link](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) |
-| 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) |
+<!-- | 569 | Median Employee Salary | [View](Hard/569-Median-Employee-Salary/solution.sql) | [Link](https://leetcode.com/problems/median-employee-salary/) | -->
+<!-- | 571 | Find Median Given Frequency of Numbers | [View](Hard/571-Find-Median-Given-Frequency-of-Numbers/solution.sql) | [Link](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | -->
+<!-- | 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) | -->
 
 ---
 
