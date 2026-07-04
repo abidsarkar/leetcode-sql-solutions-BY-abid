@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 9 | 34 |
+| 🟢 Easy | 10 | 34 |
 | 🟡 Medium | 8 | 24 |
 | 🔴 Hard | 2 | 5 |
-| **Total** | **19** | **63** |
+| **Total** | **20** | **63** |
 
 
 
@@ -40,10 +40,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 196 | Delete Duplicate Emails | Easy | [View](Easy/196-Delete-Duplicate-Emails/solution.sql) | [Link](https://leetcode.com/problems/delete-duplicate-emails/) |
 | 197 | Rising Temperature | Easy | [View](Easy/197-Rising-Temperature/solution.sql) | [Link](https://leetcode.com/problems/rising-temperature/) |
 | 511 | Game Play Analysis I | Easy | [View](Easy/511-Game-Play-Analysis-I/solution.sql) | [Link](https://leetcode.com/problems/game-play-analysis-i/) |
-<!-- | 577 | Employee Bonus | Easy | [View](Easy/577-Employee-Bonus/solution.sql) | [Link](https://leetcode.com/problems/employee-bonus/) |
+| 577 | Employee Bonus | Easy | [View](Easy/577-Employee-Bonus/solution.sql) | [Link](https://leetcode.com/problems/employee-bonus/) |
 | 584 | Find Customer Referee | Easy | [View](Easy/584-Find-Customer-Referee/solution.sql) | [Link](https://leetcode.com/problems/find-customer-referee/) |
 | 586 | Customer Placing the Largest Number of Orders | Easy | [View](Easy/586-Customer-Placing-the-Largest-Number-of-Orders/solution.sql) | [Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |
-| 595 | Big Countries | Easy | [View](Easy/595-Big-Countries/solution.sql) | [Link](https://leetcode.com/problems/big-countries/) |
+<!--| 595 | Big Countries | Easy | [View](Easy/595-Big-Countries/solution.sql) | [Link](https://leetcode.com/problems/big-countries/) |
 | 596 | Classes More Than 5 Students | Easy | [View](Easy/596-Classes-More-Than-5-Students/solution.sql) | [Link](https://leetcode.com/problems/classes-more-than-5-students/) |
 | 603 | Consecutive Available Seats | Easy | [View](Easy/603-Consecutive-Available-Seats/solution.sql) | [Link](https://leetcode.com/problems/consecutive-available-seats/) |
 | 607 | Sales Person | Easy | [View](Easy/607-Sales-Person/solution.sql) | [Link](https://leetcode.com/problems/sales-person/) |
@@ -77,8 +77,8 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 180 | Consecutive Numbers | [View](Medium/180-Consecutive-Numbers/solution.sql) | [Link](https://leetcode.com/problems/consecutive-numbers/) |
 | 184 | Department Highest Salary | [View](Medium/184-Department-Highest-Salary/solution.sql) | [Link](https://leetcode.com/problems/department-highest-salary/) |
 | 570 | Managers with at Least 5 Direct Reports | [View](Medium/570-Managers-with-at-Least-5-Direct-Reports/solution.sql) | [Link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) |
-<!-- | 585 | Investments in 2016 | [View](Medium/585-Investments-in-2016/solution.sql) | [Link](https://leetcode.com/problems/investments-in-2016/) |
-| 602 | Friend Requests II: Who Has the Most Friends | [View](Medium/602-Friend-Requests-II-Who-Has-the-Most-Friends/solution.sql) | [Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) |
+| 585 | Investments in 2016 | [View](Medium/585-Investments-in-2016/solution.sql) | [Link](https://leetcode.com/problems/investments-in-2016/) |
+<!--| 602 | Friend Requests II: Who Has the Most Friends | [View](Medium/602-Friend-Requests-II-Who-Has-the-Most-Friends/solution.sql) | [Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) |
 | 608 | Tree Node | [View](Medium/608-Tree-Node/solution.sql) | [Link](https://leetcode.com/problems/tree-node/) |
 | 626 | Exchange Seats | [View](Medium/626-Exchange-Seats/solution.sql) | [Link](https://leetcode.com/problems/exchange-seats/) |
 | 1045 | Customers Who Bought All Products | [View](Medium/1045-Customers-Who-Bought-All-Products/solution.sql) | [Link](https://leetcode.com/problems/customers-who-bought-all-products/) |
