@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-18-success)
+![Progress](https://img.shields.io/badge/Solved-19-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -21,9 +21,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
 | 🟢 Easy | 9 | 34 |
-| 🟡 Medium | 7 | 24 |
+| 🟡 Medium | 8 | 24 |
 | 🔴 Hard | 2 | 5 |
-| **Total** | **18** | **63** |
+| **Total** | **19** | **63** |
 
 
 
