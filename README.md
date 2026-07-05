@@ -33,7 +33,6 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | # | Problem | Difficulty | Solution | Question |
 |---|---------|------------|----------|----------|
 | 175 | Combine Two Tables | Easy | [View](Easy/175-Combine-Two-Tables/solution.sql) | [Link](https://leetcode.com/problems/combine-two-tables/) |
-| 176 | Second Highest Salary | Easy | [View](Easy/176-Second-Highest-Salary/solution.sql) | [Link](https://leetcode.com/problems/second-highest-salary/) |
 | 181 | Employees Earning More Than Their Managers | Easy | [View](Easy/181-Employees-Earning-More-Than-Their-Managers/solution.sql) | [Link](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |
 | 182 | Duplicate Emails | Easy | [View](Easy/182-Duplicate-Emails/solution.sql) | [Link](https://leetcode.com/problems/duplicate-emails/) |
 | 183 | Customers Who Never Order | Easy | [View](Easy/183-Customers-Who-Never-Order/solution.sql) | [Link](https://leetcode.com/problems/customers-who-never-order/) |
@@ -72,10 +71,12 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | # | Problem | Solution | Question |
 |---|---------|----------|----------|
+| 176 | Second Highest Salary | Medium | [View](Medium/176-Second-Highest-Salary/solution.sql) | [Link](https://leetcode.com/problems/second-highest-salary/) |
 | 177 | Nth Highest Salary | [View](Medium/177-Nth-Highest-Salary/solution.sql) | [Link](https://leetcode.com/problems/nth-highest-salary/) |
 | 178 | Rank Scores | [View](Medium/178-Rank-Scores/solution.sql) | [Link](https://leetcode.com/problems/rank-scores/) |
 | 180 | Consecutive Numbers | [View](Medium/180-Consecutive-Numbers/solution.sql) | [Link](https://leetcode.com/problems/consecutive-numbers/) |
 | 184 | Department Highest Salary | [View](Medium/184-Department-Highest-Salary/solution.sql) | [Link](https://leetcode.com/problems/department-highest-salary/) |
+| 550 | Game Play Analysis IV | [View](Medium/550-Game-Play-Analysis-IV/) | [Link](https://leetcode.com/problems/game-play-analysis-iv/) |
 | 570 | Managers with at Least 5 Direct Reports | [View](Medium/570-Managers-with-at-Least-5-Direct-Reports/solution.sql) | [Link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) |
 | 585 | Investments in 2016 | [View](Medium/585-Investments-in-2016/solution.sql) | [Link](https://leetcode.com/problems/investments-in-2016/) |
 <!--| 602 | Friend Requests II: Who Has the Most Friends | [View](Medium/602-Friend-Requests-II-Who-Has-the-Most-Friends/solution.sql) | [Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) |

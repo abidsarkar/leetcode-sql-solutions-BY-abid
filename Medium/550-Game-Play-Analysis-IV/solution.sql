@@ -1,7 +1,7 @@
 /*
 Problem: 550. Game Play Analysis IV
 
-Difficulty: Easy
+Difficulty: Medium
 
 LeetCode:
 https://leetcode.com/problems/game-play-analysis-iv/
