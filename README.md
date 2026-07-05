@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-19-success)
+![Progress](https://img.shields.io/badge/Solved-22-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 10 | 34 |
+| 🟢 Easy | 12 | 34 |
 | 🟡 Medium | 8 | 24 |
 | 🔴 Hard | 2 | 5 |
-| **Total** | **20** | **63** |
+| **Total** | **22** | **63** |
 
 
 
@@ -42,9 +42,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 577 | Employee Bonus | Easy | [View](Easy/577-Employee-Bonus/solution.sql) | [Link](https://leetcode.com/problems/employee-bonus/) |
 | 584 | Find Customer Referee | Easy | [View](Easy/584-Find-Customer-Referee/solution.sql) | [Link](https://leetcode.com/problems/find-customer-referee/) |
 | 586 | Customer Placing the Largest Number of Orders | Easy | [View](Easy/586-Customer-Placing-the-Largest-Number-of-Orders/solution.sql) | [Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |
-<!--| 595 | Big Countries | Easy | [View](Easy/595-Big-Countries/solution.sql) | [Link](https://leetcode.com/problems/big-countries/) |
+| 595 | Big Countries | Easy | [View](Easy/595-Big-Countries/solution.sql) | [Link](https://leetcode.com/problems/big-countries/) |
 | 596 | Classes More Than 5 Students | Easy | [View](Easy/596-Classes-More-Than-5-Students/solution.sql) | [Link](https://leetcode.com/problems/classes-more-than-5-students/) |
-| 603 | Consecutive Available Seats | Easy | [View](Easy/603-Consecutive-Available-Seats/solution.sql) | [Link](https://leetcode.com/problems/consecutive-available-seats/) |
+<!--| 603 | Consecutive Available Seats | Easy | [View](Easy/603-Consecutive-Available-Seats/solution.sql) | [Link](https://leetcode.com/problems/consecutive-available-seats/) |
 | 607 | Sales Person | Easy | [View](Easy/607-Sales-Person/solution.sql) | [Link](https://leetcode.com/problems/sales-person/) |
 | 610 | Triangle Judgement | Easy | [View](Easy/610-Triangle-Judgement/solution.sql) | [Link](https://leetcode.com/problems/triangle-judgement/) |
 | 619 | Biggest Single Number | Easy | [View](Easy/619-Biggest-Single-Number/solution.sql) | [Link](https://leetcode.com/problems/biggest-single-number/) |
