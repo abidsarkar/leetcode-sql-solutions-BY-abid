@@ -11,3 +11,12 @@ Concepts:
 */
 
 -- Write your solution here
+select
+a.name
+from SalesPerson a
+where sales_id  not in (select sales_id 
+from Orders
+where com_id = (select
+distinct(com_id) as com_id
+from Company 
+where name ='RED'))
