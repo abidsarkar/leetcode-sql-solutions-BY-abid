@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-22-success)
+![Progress](https://img.shields.io/badge/Solved-24-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -21,9 +21,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
 | 🟢 Easy | 12 | 34 |
-| 🟡 Medium | 8 | 24 |
-| 🔴 Hard | 2 | 5 |
-| **Total** | **22** | **63** |
+| 🟡 Medium | 9 | 24 |
+| 🔴 Hard | 3 | 5 |
+| **Total** | **24** | **63** |
 
 
 
@@ -79,8 +79,8 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 550 | Game Play Analysis IV | [View](Medium/550-Game-Play-Analysis-IV/) | [Link](https://leetcode.com/problems/game-play-analysis-iv/) |
 | 570 | Managers with at Least 5 Direct Reports | [View](Medium/570-Managers-with-at-Least-5-Direct-Reports/solution.sql) | [Link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) |
 | 585 | Investments in 2016 | [View](Medium/585-Investments-in-2016/solution.sql) | [Link](https://leetcode.com/problems/investments-in-2016/) |
-<!--| 602 | Friend Requests II: Who Has the Most Friends | [View](Medium/602-Friend-Requests-II-Who-Has-the-Most-Friends/solution.sql) | [Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) |
-| 608 | Tree Node | [View](Medium/608-Tree-Node/solution.sql) | [Link](https://leetcode.com/problems/tree-node/) |
+| 602 | Friend Requests II: Who Has the Most Friends | [View](Medium/602-Friend-Requests-II-Who-Has-the-Most-Friends/solution.sql) | [Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) |
+<!--| 608 | Tree Node | [View](Medium/608-Tree-Node/solution.sql) | [Link](https://leetcode.com/problems/tree-node/) |
 | 626 | Exchange Seats | [View](Medium/626-Exchange-Seats/solution.sql) | [Link](https://leetcode.com/problems/exchange-seats/) |
 | 1045 | Customers Who Bought All Products | [View](Medium/1045-Customers-Who-Bought-All-Products/solution.sql) | [Link](https://leetcode.com/problems/customers-who-bought-all-products/) |
 | 1070 | Product Sales Analysis III | [View](Medium/1070-Product-Sales-Analysis-III/solution.sql) | [Link](https://leetcode.com/problems/product-sales-analysis-iii/) |
@@ -108,7 +108,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 262 | Trips and Users | [View](Hard/262-Trips-and-Users/solution.sql) | [Link](https://leetcode.com/problems/trips-and-users/) |
 <!-- | 569 | Median Employee Salary | [View](Hard/569-Median-Employee-Salary/solution.sql) | [Link](https://leetcode.com/problems/median-employee-salary/) | -->
 <!-- | 571 | Find Median Given Frequency of Numbers | [View](Hard/571-Find-Median-Given-Frequency-of-Numbers/solution.sql) | [Link](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | -->
-<!-- | 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) | -->
+| 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) |
 
 ---
 
