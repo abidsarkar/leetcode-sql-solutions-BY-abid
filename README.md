@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-28-success)
+![Progress](https://img.shields.io/badge/Solved-31-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 15 | 34 |
-| 🟡 Medium | 10 | 24 |
+| 🟢 Easy | 17 | 34 |
+| 🟡 Medium | 11 | 24 |
 | 🔴 Hard | 3 | 5 |
-| **Total** | **28** | **63** |
+| **Total** | **31** | **63** |
 
 
 
@@ -48,9 +48,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 607 | Sales Person | Easy | [View](Easy/607-Sales-Person/solution.sql) | [Link](https://leetcode.com/problems/sales-person/) |
 | 610 | Triangle Judgement | Easy | [View](Easy/610-Triangle-Judgement/solution.sql) | [Link](https://leetcode.com/problems/triangle-judgement/) |
 | 619 | Biggest Single Number | Easy | [View](Easy/619-Biggest-Single-Number/solution.sql) | [Link](https://leetcode.com/problems/biggest-single-number/) |
-<!--| 620 | Not Boring Movies | Easy | [View](Easy/620-Not-Boring-Movies/solution.sql) | [Link](https://leetcode.com/problems/not-boring-movies/) |
+| 620 | Not Boring Movies | Easy | [View](Easy/620-Not-Boring-Movies/solution.sql) | [Link](https://leetcode.com/problems/not-boring-movies/) |
 | 627 | Swap Salary | Easy | [View](Easy/627-Swap-Salary/solution.sql) | [Link](https://leetcode.com/problems/swap-salary/) |
-| 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | [View](Easy/1050-Actors-and-Directors-Who-Cooperated-At-Least-Three-Times/solution.sql) | [Link](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) |
+<!--| 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | [View](Easy/1050-Actors-and-Directors-Who-Cooperated-At-Least-Three-Times/solution.sql) | [Link](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) |
 | 1068 | Product Sales Analysis I | Easy | [View](Easy/1068-Product-Sales-Analysis-I/solution.sql) | [Link](https://leetcode.com/problems/product-sales-analysis-i/) |
 | 1075 | Project Employees I | Easy | [View](Easy/1075-Project-Employees-I/solution.sql) | [Link](https://leetcode.com/problems/project-employees-i/) |
 | 1084 | Sales Analysis III | Easy | [View](Easy/1084-Sales-Analysis-III/solution.sql) | [Link](https://leetcode.com/problems/sales-analysis-iii/) |
@@ -81,8 +81,8 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 585 | Investments in 2016 | [View](Medium/585-Investments-in-2016/solution.sql) | [Link](https://leetcode.com/problems/investments-in-2016/) |
 | 602 | Friend Requests II: Who Has the Most Friends | [View](Medium/602-Friend-Requests-II-Who-Has-the-Most-Friends/solution.sql) | [Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) |
 | 608 | Tree Node | [View](Medium/608-Tree-Node/solution.sql) | [Link](https://leetcode.com/problems/tree-node/) |
-<!--| 626 | Exchange Seats | [View](Medium/626-Exchange-Seats/solution.sql) | [Link](https://leetcode.com/problems/exchange-seats/) |
-| 1045 | Customers Who Bought All Products | [View](Medium/1045-Customers-Who-Bought-All-Products/solution.sql) | [Link](https://leetcode.com/problems/customers-who-bought-all-products/) |
+| 626 | Exchange Seats | [View](Medium/626-Exchange-Seats/solution.sql) | [Link](https://leetcode.com/problems/exchange-seats/) |
+<!--| 1045 | Customers Who Bought All Products | [View](Medium/1045-Customers-Who-Bought-All-Products/solution.sql) | [Link](https://leetcode.com/problems/customers-who-bought-all-products/) |
 | 1070 | Product Sales Analysis III | [View](Medium/1070-Product-Sales-Analysis-III/solution.sql) | [Link](https://leetcode.com/problems/product-sales-analysis-iii/) |
 | 1076 | Project Employees II | [View](Medium/1076-Project-Employees-II/solution.sql) | [Link](https://leetcode.com/problems/project-employees-ii/) |
 | 1077 | Project Employees III | [View](Medium/1077-Project-Employees-III/solution.sql) | [Link](https://leetcode.com/problems/project-employees-iii/) |
