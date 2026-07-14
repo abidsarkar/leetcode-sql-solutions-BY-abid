@@ -1,4 +1,4 @@
-# 1076. Project Employees II
+# 1045. Customers Who Bought All Products
 
 **Difficulty:** Medium
 
@@ -6,7 +6,7 @@
 
 ## Problem
 
-https://leetcode.com/problems/project-employees-ii/
+https://leetcode.com/problems/customers-who-bought-all-products/
 
 ---
 
