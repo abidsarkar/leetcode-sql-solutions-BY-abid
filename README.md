@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 24 | 55 |
-| 🟡 Medium | 16 | 39 |
+| 🟢 Easy | 27 | 55 |
+| 🟡 Medium | 18 | 39 |
 | 🔴 Hard | 3 | 11 |
-| **Total** | **43** | **105** |
+| **Total** | **48** | **105** |
 
 
 
@@ -57,10 +57,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1141 | User Activity for the Past 30 Days I | Easy | [View](Easy/1141-User-Activity-for-the-Past-30-Days-I/) | [Link](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/) |
 | 1148 | Article Views I | Easy | [View](Easy/1148-Article-Views-I/solution.sql) | [Link](https://leetcode.com/problems/article-views-i/) |
 | 1179 | Reformat Department Table | Easy | [View](Easy/1179-Reformat-Department-Table/solution.sql) | [Link](https://leetcode.com/problems/reformat-department-table/) |
-<!--| 1211 | Queries Quality and Percentage | Easy | [View](Easy/1211-Queries-Quality-and-Percentage/solution.sql) | [Link](https://leetcode.com/problems/queries-quality-and-percentage/) |
+| 1211 | Queries Quality and Percentage | Easy | [View](Easy/1211-Queries-Quality-and-Percentage/solution.sql) | [Link](https://leetcode.com/problems/queries-quality-and-percentage/) |
 | 1251 | Average Selling Price | Easy | [View](Easy/1251-Average-Selling-Price/solution.sql) | [Link](https://leetcode.com/problems/average-selling-price/) |
 | 1280 | Students and Examinations | Easy | [View](Easy/1280-Students-and-Examinations/solution.sql) | [Link](https://leetcode.com/problems/students-and-examinations/) |
-| 1378 | Replace Employee ID With The Unique Identifier | Easy | [View](Easy/1378-Replace-Employee-ID-With-The-Unique-Identifier/solution.sql) | [Link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) |
+<!--| 1378 | Replace Employee ID With The Unique Identifier | Easy | [View](Easy/1378-Replace-Employee-ID-With-The-Unique-Identifier/solution.sql) | [Link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) |
 | 1484 | Group Sold Products By The Date | Easy | [View](Easy/1484-Group-Sold-Products-By-The-Date/solution.sql) | [Link](https://leetcode.com/problems/group-sold-products-by-the-date/) |
 | 1527 | Patients With a Condition | Easy | [View](Easy/1527-Patients-With-a-Condition/solution.sql) | [Link](https://leetcode.com/problems/patients-with-a-condition/) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | [View](Easy/1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/solution.sql) | [Link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) |
@@ -88,9 +88,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1158 | Market-Analysis-I | [View](Medium/1158-Market-Analysis-I/) | [Link](https://leetcode.com/problems/market-analysis-i/description/) |
 | 1164 | Product-price_at_a-given_date | [View](Medium/1164-Product-price_at_a-given_date/) | [Link](https://leetcode.com/problems/product-price-at-a-given-date/) |
 | 1174 | immediate-food-delivery-ii | [View](Medium/1174-immediate-food-delivery-ii/) | [Link](https://leetcode.com/problems/immediate-food-delivery-ii/) |
-<!--| 1193 | Monthly Transactions I | [View](Medium/1193-Monthly-Transactions-I/solution.sql) | [Link](https://leetcode.com/problems/monthly-transactions-i/) |
+| 1193 | Monthly Transactions I | [View](Medium/1193-Monthly-Transactions-I/solution.sql) | [Link](https://leetcode.com/problems/monthly-transactions-i/) |
 | 1204 | Last Person to Fit in the Bus | [View](Medium/1204-Last-Person-to-Fit-in-the-Bus/solution.sql) | [Link](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) |
-| 1321 | Restaurant Growth | [View](Medium/1321-Restaurant-Growth/solution.sql) | [Link](https://leetcode.com/problems/restaurant-growth/) |
+<!--| 1321 | Restaurant Growth | [View](Medium/1321-Restaurant-Growth/solution.sql) | [Link](https://leetcode.com/problems/restaurant-growth/) |
 | 1341 | Movie Rating | [View](Medium/1341-Movie-Rating/solution.sql) | [Link](https://leetcode.com/problems/movie-rating/) |
 | 1393 | Capital Gain/Loss | [View](Medium/1393-Capital-Gain-Loss/solution.sql) | [Link](https://leetcode.com/problems/capital-gain-loss/) |
 | 1454 | Active Users | [View](Medium/1454-Active-Users/solution.sql) | [Link](https://leetcode.com/problems/active-users/) |
@@ -108,9 +108,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 |---|---------|----------|----------|
 | 185 | Department Top Three Salaries | [View](Hard/185-Department-Top-Three-Salaries/solution.sql) | [Link](https://leetcode.com/problems/department-top-three-salaries/) |
 | 262 | Trips and Users | [View](Hard/262-Trips-and-Users/solution.sql) | [Link](https://leetcode.com/problems/trips-and-users/) |
+| 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) |
 <!-- | 569 | Median Employee Salary | [View](Hard/569-Median-Employee-Salary/solution.sql) | [Link](https://leetcode.com/problems/median-employee-salary/) | -->
 <!-- | 571 | Find Median Given Frequency of Numbers | [View](Hard/571-Find-Median-Given-Frequency-of-Numbers/solution.sql) | [Link](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | -->
-| 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) |
 
 ---
 
