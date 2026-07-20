@@ -12,3 +12,11 @@ Concepts:
 
 -- Write your solution here
 
+select
+a.name,
+sum(b.amount) as balance 
+from Users a
+JOIN Transactions b
+ON a.account = b.account
+group by a.name, a.account
+having sum(b.amount)>10000

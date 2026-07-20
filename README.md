@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-56-success)
+![Progress](https://img.shields.io/badge/Solved-60-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 32 | 55 |
-| 🟡 Medium | 21 | 39 |
+| 🟢 Easy | 35 | 55 |
+| 🟡 Medium | 22 | 39 |
 | 🔴 Hard | 3 | 11 |
-| **Total** | **56** | **105** |
+| **Total** | **60** | **105** |
 
 
 
@@ -64,9 +64,11 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1407 | Top Travelers | Easy | [View](Easy/1407-Top-Travellers/) | [Link](https://leetcode.com/problems/top-travellers/description/) |
 | 1484 | Group Sold Products By The Date | Easy | [View](Easy/1484-Group-Sold-Products-By-The-Date/solution.sql) | [Link](https://leetcode.com/problems/group-sold-products-by-the-date/) |
 | 1517 | Find Users With Valid E-Mails | Easy | [View](Easy/1517-Find_Users_With_valid_E-Mails/) | [Link](https://leetcode.com/problems/find-users-with-valid-e-mails/) |
-<!--| 1527 | Patients With a Condition | Easy | [View](Easy/1527-Patients-With-a-Condition/solution.sql) | [Link](https://leetcode.com/problems/patients-with-a-condition/) |
+| 1527 | Patients With a Condition | Easy | [View](Easy/1527-Patients-With-a-Condition/solution.sql) | [Link](https://leetcode.com/problems/patients-with-a-condition/) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | [View](Easy/1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/solution.sql) | [Link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) |
-| 1661 | Average Time of Process per Machine | Easy | [View](Easy/1661-Average-Time-of-Process-per-Machine/solution.sql) | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) |
+| 1587 | Bank Account Summary II | Easy | [View](Easy/1587-Bank-Account-summary-II/solution.sql) | [Link](https://leetcode.com/problems/bank-account-summary-ii/) |
+| 1633 | Percentage of Users Attended a Contest | Easy | [View](Easy/1633-Percentage%20of%20Users%20Attended%20a%20Contest/solution.sql) | [Link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/) |
+<!--| 1661 | Average Time of Process per Machine | Easy | [View](Easy/1661-Average-Time-of-Process-per-Machine/solution.sql) | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) |
 | 1683 | Invalid Tweets | Easy | [View](Easy/1683-Invalid-Tweets/solution.sql) | [Link](https://leetcode.com/problems/invalid-tweets/) | -->
 
 ---
@@ -95,9 +97,8 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1321 | Restaurant Growth | [View](Medium/1321-Restaurant-Growth/solution.sql) | [Link](https://leetcode.com/problems/restaurant-growth/) |
 | 1341 | Movie Rating | [View](Medium/1341-Movie-Rating/solution.sql) | [Link](https://leetcode.com/problems/movie-rating/) |
 | 1393 | Capital Gain/Loss | [View](Medium/1393-Capital-Gain-Loss/solution.sql) | [Link](https://leetcode.com/problems/capital-gain-loss/) |
-<!--| 1454 | Active Users | [View](Medium/1454-Active-Users/solution.sql) | [Link](https://leetcode.com/problems/active-users/) |
-| 1633 | Percentage of Users Attended a Contest | [View](Medium/1633-Percentage-of-Users-Attended-a-Contest/solution.sql) | [Link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) |
-| 1731 | The Number of Employees Which Report to Each Employee | [View](Medium/1731-The-Number-of-Employees-Which-Report-to-Each-Employee/solution.sql) | [Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) |
+| 1454 | Active Users | [View](Medium/1454-Active-Users/solution.sql) | [Link](https://leetcode.com/problems/active-users/) |
+<!--| 1731 | The Number of Employees Which Report to Each Employee | [View](Medium/1731-The-Number-of-Employees-Which-Report-to-Each-Employee/solution.sql) | [Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) |
 | 1789 | Primary Department for Each Employee | [View](Medium/1789-Primary-Department-for-Each-Employee/solution.sql) | [Link](https://leetcode.com/problems/primary-department-for-each-employee/) |
 | 1907 | Count Salary Categories | [View](Medium/1907-Count-Salary-Categories/solution.sql) | [Link](https://leetcode.com/problems/count-salary-categories/) |
 | 1934 | Confirmation Rate | [View](Medium/1934-Confirmation-Rate/solution.sql) | [Link](https://leetcode.com/problems/confirmation-rate/) | -->
