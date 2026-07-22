@@ -1,10 +1,10 @@
 /*
-Problem: 1683. Invalid Tweets
+Problem: 1693. Daily Leads and Partners
 
 Difficulty: Easy
 
 LeetCode:
-https://leetcode.com/problems/invalid-tweets/
+https://leetcode.com/problems/daily-leads-and-partners/description/
 
 Concepts:
 
