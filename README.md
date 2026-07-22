@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-60-success)
+![Progress](https://img.shields.io/badge/Solved-67-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 35 | 55 |
+| 🟢 Easy | 42 | 55 |
 | 🟡 Medium | 22 | 39 |
 | 🔴 Hard | 3 | 11 |
-| **Total** | **60** | **105** |
+| **Total** | **67** | **105** |
 
 
 
@@ -68,9 +68,13 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | [View](Easy/1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions/solution.sql) | [Link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) |
 | 1587 | Bank Account Summary II | Easy | [View](Easy/1587-Bank-Account-summary-II/solution.sql) | [Link](https://leetcode.com/problems/bank-account-summary-ii/) |
 | 1633 | Percentage of Users Attended a Contest | Easy | [View](Easy/1633-Percentage%20of%20Users%20Attended%20a%20Contest/solution.sql) | [Link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/) |
-<!--| 1661 | Average Time of Process per Machine | Easy | [View](Easy/1661-Average-Time-of-Process-per-Machine/solution.sql) | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) |
-| 1683 | Invalid Tweets | Easy | [View](Easy/1683-Invalid-Tweets/solution.sql) | [Link](https://leetcode.com/problems/invalid-tweets/) | -->
-
+| 1661 | Average Time of Process per Machine | Easy | [View](Easy/1661-Average-Time-of-Process-per-Machine/solution.sql) | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) |
+| 1667 | Fix Names In A Table | Easy | [View](Easy/1667_fix_names_in_a_table/solution.sql) | [Link](https://leetcode.com/problems/fix-names-in-a-table/description/) |
+| 1683 | Invalid Tweets | Easy | [View](Easy/1683-Invalid-Tweets/solution.sql) | [Link](https://leetcode.com/problems/invalid-tweets/) | 
+| 1693 | Daily Leads and Partners | Easy | [View](Easy/1693_daily_leads_and_partners/solution.sql) | [Link](https://leetcode.com/problems/daily-leads-and-partners/description/) | 
+| 1729 | find followers count| Easy | [View](Easy/1729_find_followers_count/solution.sql) | [Link](https://leetcode.com/problems/find-followers-count/description/) |
+| 1731 | The_number_of_employees_which_report_To_each_employee| Easy | [View](Easy/1731_The_number_of_employees_which_report_To_each_employee/solution.sql) | [Link](https://leetcode.com/problems/find-followers-count/description/) |
+| 1741 | Find Total Time Spent by Each Employee| Easy | [View](Easy/1741_Find_Total_Time_Spent_by_Each_Employee/solution.sql) | [Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/) |
 ---
 # 🟡 Medium Problems
 
