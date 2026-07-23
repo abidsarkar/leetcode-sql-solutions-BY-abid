@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-70-success)
+![Progress](https://img.shields.io/badge/Solved-72-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 45 | 55 |
+| 🟢 Easy | 47 | 55 |
 | 🟡 Medium | 22 | 39 |
 | 🔴 Hard | 3 | 11 |
-| **Total** | **70** | **105** |
+| **Total** | **72** | **105** |
 
 
 
@@ -78,6 +78,8 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1757 | Recyclable_and_Low_Fat_Products| Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products/solution.sql) | [Link](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) |
 | 1789 | Primary Department for Each Employee | Easy | [View](Easy/1789_Primary_Department_for_Each_Employee/solution.sql) | [Link](https://leetcode.com/problems/primary-department-for-each-employee/description/) |
 | 1789 | Rearrange Products Table | Easy | [View](Easy/1795_Rearrange_Products_Table/solution.sql) | [Link](https://leetcode.com/problems/rearrange-products-table/description/) |
+| 1873 | Calculate Special Bonus | Easy | [View](Easy/1873_Calculate_Special_Bonus/solution.sql) | [Link](https://leetcode.com/problems/calculate-special-bonus/description/) |
+| 1890 | The Latest Login in 2020 | Easy | [View](Easy/1890_The_Latest_Login_in_2020/solution.sql) | [Link](https://leetcode.com/problems/the-latest-login-in-2020/description/) |
 ---
 # 🟡 Medium Problems
 
