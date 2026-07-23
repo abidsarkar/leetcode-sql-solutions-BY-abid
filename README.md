@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-67-success)
+![Progress](https://img.shields.io/badge/Solved-70-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 42 | 55 |
+| 🟢 Easy | 45 | 55 |
 | 🟡 Medium | 22 | 39 |
 | 🔴 Hard | 3 | 11 |
-| **Total** | **67** | **105** |
+| **Total** | **70** | **105** |
 
 
 
@@ -75,6 +75,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1729 | find followers count| Easy | [View](Easy/1729_find_followers_count/solution.sql) | [Link](https://leetcode.com/problems/find-followers-count/description/) |
 | 1731 | The_number_of_employees_which_report_To_each_employee| Easy | [View](Easy/1731_The_number_of_employees_which_report_To_each_employee/solution.sql) | [Link](https://leetcode.com/problems/find-followers-count/description/) |
 | 1741 | Find Total Time Spent by Each Employee| Easy | [View](Easy/1741_Find_Total_Time_Spent_by_Each_Employee/solution.sql) | [Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/) |
+| 1757 | Recyclable_and_Low_Fat_Products| Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products/solution.sql) | [Link](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) |
+| 1789 | Primary Department for Each Employee | Easy | [View](Easy/1789_Primary_Department_for_Each_Employee/solution.sql) | [Link](https://leetcode.com/problems/primary-department-for-each-employee/description/) |
+| 1789 | Rearrange Products Table | Easy | [View](Easy/1795_Rearrange_Products_Table/solution.sql) | [Link](https://leetcode.com/problems/rearrange-products-table/description/) |
 ---
 # 🟡 Medium Problems
 
