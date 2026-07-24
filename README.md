@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-72-success)
+![Progress](https://img.shields.io/badge/Solved-77-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 47 | 55 |
-| 🟡 Medium | 22 | 39 |
+| 🟢 Easy | 51 | 55 |
+| 🟡 Medium | 24 | 39 |
 | 🔴 Hard | 3 | 11 |
-| **Total** | **72** | **105** |
+| **Total** | **78** | **105** |
 
 
 
@@ -80,6 +80,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1789 | Rearrange Products Table | Easy | [View](Easy/1795_Rearrange_Products_Table/solution.sql) | [Link](https://leetcode.com/problems/rearrange-products-table/description/) |
 | 1873 | Calculate Special Bonus | Easy | [View](Easy/1873_Calculate_Special_Bonus/solution.sql) | [Link](https://leetcode.com/problems/calculate-special-bonus/description/) |
 | 1890 | The Latest Login in 2020 | Easy | [View](Easy/1890_The_Latest_Login_in_2020/solution.sql) | [Link](https://leetcode.com/problems/the-latest-login-in-2020/description/) |
+| 1965 | Employees with missing information | Easy | [View](Easy/1965_Employees_with_missing_information/solution.sql) | [Link](https://leetcode.com/problems/employees-with-missing-information/description/) |
+| 1978 | employees_whose_manager_left_the_company | Easy | [View](Easy/1978_employees_whose_manager_left_the_company/solution.sql) | [Link](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/) |
+| 2356 | Number_Of_unique_subjects_taught_by_each_teacher | Easy | [View](Easy/2356_Number_Of_unique_subjects_taught_by_each_teacher/solution.sql) | [Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) |
 ---
 # 🟡 Medium Problems
 
@@ -107,10 +110,11 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1341 | Movie Rating | [View](Medium/1341-Movie-Rating/solution.sql) | [Link](https://leetcode.com/problems/movie-rating/) |
 | 1393 | Capital Gain/Loss | [View](Medium/1393-Capital-Gain-Loss/solution.sql) | [Link](https://leetcode.com/problems/capital-gain-loss/) |
 | 1454 | Active Users | [View](Medium/1454-Active-Users/solution.sql) | [Link](https://leetcode.com/problems/active-users/) |
-<!--| 1731 | The Number of Employees Which Report to Each Employee | [View](Medium/1731-The-Number-of-Employees-Which-Report-to-Each-Employee/solution.sql) | [Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) |
 | 1789 | Primary Department for Each Employee | [View](Medium/1789-Primary-Department-for-Each-Employee/solution.sql) | [Link](https://leetcode.com/problems/primary-department-for-each-employee/) |
 | 1907 | Count Salary Categories | [View](Medium/1907-Count-Salary-Categories/solution.sql) | [Link](https://leetcode.com/problems/count-salary-categories/) |
-| 1934 | Confirmation Rate | [View](Medium/1934-Confirmation-Rate/solution.sql) | [Link](https://leetcode.com/problems/confirmation-rate/) | -->
+| 1934 | Confirmation Rate | [View](Medium/1934-Confirmation-Rate/solution.sql) | [Link](https://leetcode.com/problems/confirmation-rate/) |
+| 3220 | Odd and even Transactions | [View](Medium/3220_Odd_and_enven_transactions/solution.sql) | [Link](https://leetcode.com/problems/odd-and-even-transactions/) |
+
 
 ---
 
@@ -121,7 +125,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 185 | Department Top Three Salaries | [View](Hard/185-Department-Top-Three-Salaries/solution.sql) | [Link](https://leetcode.com/problems/department-top-three-salaries/) |
 | 262 | Trips and Users | [View](Hard/262-Trips-and-Users/solution.sql) | [Link](https://leetcode.com/problems/trips-and-users/) |
 | 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) |
-<!-- | 569 | Median Employee Salary | [View](Hard/569-Median-Employee-Salary/solution.sql) | [Link](https://leetcode.com/problems/median-employee-salary/) | -->
+| 3374 | First Letter Capitalization II | [View](Hard/3374-First-letter-capitalization-II/solution.sql) | [Link](https://leetcode.com/problems/first-letter-capitalization-ii/) | -->
 <!-- | 571 | Find Median Given Frequency of Numbers | [View](Hard/571-Find-Median-Given-Frequency-of-Numbers/solution.sql) | [Link](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | -->
 
 ---
