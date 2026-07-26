@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-77-success)
+![Progress](https://img.shields.io/badge/Solved-79-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 51 | 55 |
+| 🟢 Easy | 52 | 55 |
 | 🟡 Medium | 24 | 39 |
 | 🔴 Hard | 3 | 11 |
-| **Total** | **78** | **105** |
+| **Total** | **79** | **105** |
 
 
 
@@ -83,6 +83,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1965 | Employees with missing information | Easy | [View](Easy/1965_Employees_with_missing_information/solution.sql) | [Link](https://leetcode.com/problems/employees-with-missing-information/description/) |
 | 1978 | employees_whose_manager_left_the_company | Easy | [View](Easy/1978_employees_whose_manager_left_the_company/solution.sql) | [Link](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/) |
 | 2356 | Number_Of_unique_subjects_taught_by_each_teacher | Easy | [View](Easy/2356_Number_Of_unique_subjects_taught_by_each_teacher/solution.sql) | [Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) |
+| 3436 | find valid emails | Easy | [View](Easy/3436-find_valid_emails/solution.sql) | [Link](https://leetcode.com/problems/find-valid-emails/description/) |
 ---
 # 🟡 Medium Problems
 
