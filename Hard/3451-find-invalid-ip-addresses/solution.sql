@@ -1,14 +1,28 @@
 /*
-Problem: 571. Find Median Given Frequency of Numbers
+Problem: 3451-find-invalid-ip-addresses
 
 Difficulty: Hard
 
 LeetCode:
-https://leetcode.com/problems/find-median-given-frequency-of-numbers/
-
-Concepts:
+https://leetcode.com/problems/find-invalid-ip-addresses/
 
 */
 
 -- Write your SQL solution here
+1
 
+	
+
+WITH
+  InvalidIPs AS (
+    SELECT ip
+    FROM Logs
+    WHERE
+      LENGTH(ip) - LENGTH(REPLACE(ip, '.', '')) != 3
+      OR ip REGEXP '(^|\\.)0[0-9]'
+      OR ip REGEXP '(^|\\.)([0-9]{4,}|[3-9][0-9]{2}|2[6-9][0-9]|25[6-9])(\\.|$)'
+  )
+SELECT ip, COUNT(*) AS invalid_count
+FROM InvalidIPs
+GROUP BY ip
+ORDER BY invalid_count DESC, ip DESC;

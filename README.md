@@ -20,10 +20,10 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
-| 🟢 Easy | 52 | 55 |
-| 🟡 Medium | 24 | 39 |
-| 🔴 Hard | 3 | 11 |
-| **Total** | **79** | **105** |
+| 🟢 Easy | 53 | 55 |
+| 🟡 Medium | 25 | 39 |
+| 🔴 Hard | 4 | 11 |
+| **Total** | **82** | **105** |
 
 
 
@@ -84,6 +84,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1978 | employees_whose_manager_left_the_company | Easy | [View](Easy/1978_employees_whose_manager_left_the_company/solution.sql) | [Link](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/) |
 | 2356 | Number_Of_unique_subjects_taught_by_each_teacher | Easy | [View](Easy/2356_Number_Of_unique_subjects_taught_by_each_teacher/solution.sql) | [Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) |
 | 3436 | find valid emails | Easy | [View](Easy/3436-find_valid_emails/solution.sql) | [Link](https://leetcode.com/problems/find-valid-emails/description/) |
+| 3465 | find products with valid serial number | Easy | [View](Easy/3465-FInd-products-with-valid-serial-number/solution.sql) | [Link](https://leetcode.com/problems/find-products-with-valid-serial-numbers/description/) |
 ---
 # 🟡 Medium Problems
 
@@ -115,6 +116,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1907 | Count Salary Categories | [View](Medium/1907-Count-Salary-Categories/solution.sql) | [Link](https://leetcode.com/problems/count-salary-categories/) |
 | 1934 | Confirmation Rate | [View](Medium/1934-Confirmation-Rate/solution.sql) | [Link](https://leetcode.com/problems/confirmation-rate/) |
 | 3220 | Odd and even Transactions | [View](Medium/3220_Odd_and_enven_transactions/solution.sql) | [Link](https://leetcode.com/problems/odd-and-even-transactions/) |
+| 3220 | Find_student_who_improved | [View](Medium/3421_Find_student_who_imporved/solution.sql) | [Link](https://leetcode.com/problems/find-students-who-improved/description/) |
 
 
 ---
@@ -126,9 +128,8 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 185 | Department Top Three Salaries | [View](Hard/185-Department-Top-Three-Salaries/solution.sql) | [Link](https://leetcode.com/problems/department-top-three-salaries/) |
 | 262 | Trips and Users | [View](Hard/262-Trips-and-Users/solution.sql) | [Link](https://leetcode.com/problems/trips-and-users/) |
 | 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) |
-| 3374 | First Letter Capitalization II | [View](Hard/3374-First-letter-capitalization-II/solution.sql) | [Link](https://leetcode.com/problems/first-letter-capitalization-ii/) | -->
-<!-- | 571 | Find Median Given Frequency of Numbers | [View](Hard/571-Find-Median-Given-Frequency-of-Numbers/solution.sql) | [Link](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | -->
-
+| 3374 | First Letter Capitalization II | [View](Hard/3374-First-letter-capitalization-II/solution.sql) | [Link](https://leetcode.com/problems/first-letter-capitalization-ii/) | 
+| 3451 | find-invalid-ip-addresses | [View](Hard/3451-find-invalid-ip-addresses/solution.sql) | [Link](https://leetcode.com/problems/find-invalid-ip-addresses/) |
 ---
 
 ## 📖 SQL Topics Covered
