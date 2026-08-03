@@ -5,7 +5,7 @@ Leet Code handel ->
 
 
 ![SQL](https://img.shields.io/badge/SQL-LeetCode-orange)
-![Progress](https://img.shields.io/badge/Solved-79-success)
+![Progress](https://img.shields.io/badge/Solved-83-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Database](https://img.shields.io/badge/Database-SQL-red)
 
@@ -21,9 +21,9 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | Difficulty | Solved | Total |
 |------------|-------:|------:|
 | 🟢 Easy | 53 | 55 |
-| 🟡 Medium | 25 | 39 |
-| 🔴 Hard | 4 | 11 |
-| **Total** | **82** | **105** |
+| 🟡 Medium | 26 | 39 |
+| 🔴 Hard | 5 | 11 |
+| **Total** | **83** | **105** |
 
 
 
@@ -117,6 +117,8 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 1934 | Confirmation Rate | [View](Medium/1934-Confirmation-Rate/solution.sql) | [Link](https://leetcode.com/problems/confirmation-rate/) |
 | 3220 | Odd and even Transactions | [View](Medium/3220_Odd_and_enven_transactions/solution.sql) | [Link](https://leetcode.com/problems/odd-and-even-transactions/) |
 | 3220 | Find_student_who_improved | [View](Medium/3421_Find_student_who_imporved/solution.sql) | [Link](https://leetcode.com/problems/find-students-who-improved/description/) |
+| 3475 | DNA pattern Recognition | [View](Medium/3475-Dna-pattern-recognition/solution.sql) | [Link](https://leetcode.com/problems/dna-pattern-recognition/description/) |
+
 
 
 ---
@@ -130,6 +132,7 @@ This repository contains my SQL solutions for LeetCode Database problems. Each s
 | 601 | Human Traffic of Stadium | [View](Hard/601-Human-Traffic-of-Stadium/solution.sql) | [Link](https://leetcode.com/problems/human-traffic-of-stadium/) |
 | 3374 | First Letter Capitalization II | [View](Hard/3374-First-letter-capitalization-II/solution.sql) | [Link](https://leetcode.com/problems/first-letter-capitalization-ii/) | 
 | 3451 | find-invalid-ip-addresses | [View](Hard/3451-find-invalid-ip-addresses/solution.sql) | [Link](https://leetcode.com/problems/find-invalid-ip-addresses/) |
+| 3482 | Analyze Organization Hierarchy | [View](Hard/3482-Analyze-Organization-Hierarchy/solution.sql) | [Link](https://leetcode.com/problems/analyze-organization-hierarchy/) |
 ---
 
 ## 📖 SQL Topics Covered

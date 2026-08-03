@@ -9,10 +9,6 @@ https://leetcode.com/problems/find-invalid-ip-addresses/
 */
 
 -- Write your SQL solution here
-1
-
-	
-
 WITH
   InvalidIPs AS (
     SELECT ip
